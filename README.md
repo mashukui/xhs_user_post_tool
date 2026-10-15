@@ -11,15 +11,15 @@
 
 软件运行界面：
 
-![软件运行界面](https://files.mdnice.com/user/32110/7b0de3af-008e-4784-aee2-ecbebbf82997.png)
+![软件运行界面](images/xup_01.png)
 
 采集结果-笔记详情数据：
 
-![采集结果-笔记详情数据](https://files.mdnice.com/user/32110/664d9035-6389-48c6-829f-174bb887bee9.png)
+![采集结果-笔记详情数据](images/xup_02.png)
  
 笔记图片一级文件夹：
 
-![笔记图片一级文件夹](https://files.mdnice.com/user/32110/e8dd040f-a175-49e5-abe9-7e75e49d5a2d.png)
+![笔记图片一级文件夹](images/xup_03.png)
 
 笔记图片二级文件夹：
 
